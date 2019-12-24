@@ -26,6 +26,7 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
 	github.com/modern-go/reflect2 v0.0.0-20180228065516-1df9eeb2bb81
 	github.com/spf13/pflag v1.0.1
+	github.com/trstringer/k8s-controller-custom-resource v0.0.0-20180418020716-2c2bde7ed9b4
 	golang.org/x/crypto v0.0.0-20180411161317-d6449816ce06
 	golang.org/x/net v0.0.0-20180406214816-61147c48b25b
 	golang.org/x/sys v0.0.0-20180414092825-2281fa97ef7b
